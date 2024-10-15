@@ -1,6 +1,6 @@
-# Ping-ChapApp - Real-Time Chat Application
+# Ping-ChatApp - Real-Time Chat Application
 
-**Ping-ChapApp** is a real-time chat application built using **React** and **Firebase**. It allows users to sign up, log in, and chat with other users in real-time. The app offers a clean and simple interface, making communication fast and easy.
+**Ping-ChatApp** is a real-time chat application built using **React** and **Firebase**. It allows users to sign up, log in, and chat with other users in real-time. The app offers a clean and simple interface, making communication fast and easy.
 
 ## Features
 
